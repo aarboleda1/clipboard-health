@@ -1,8 +1,8 @@
-"What (City, State) are you located in?",What's your highest level of education?,Department,How's the employee turnover?,How many years of experience do you have?,What is/was your length of orientation/training?,What is the Nurse - Patient Ratio?,What is your hourly rate ($/hr)?,What's Your Shift Length?,Which Shift?,Other,Full-Time/Part-Time?,"Do you have any special skills that set you apart from other nurses? (examples: CCRN, CNOR, Special Procedures, etc.)",Would you recommend your department to another nurse?,How did you hear about Project Nurse?,Start Date (UTC),Submit Date (UTC)
 "Ann Arbor, mi ",Bachelors,Cardiac Stepdown unit,Medium,5,8 weeks,"3:1 days, 4:1 nights ",$30 ,12-Hour,,Rotating days and nights,Part-Time,,Yes,,3/1/17 16:58,3/1/17 17:02
 "San Jose, CA",Bachelors,ICU,Medium,"1, 3 total in nursing",1.5 weeks,"2:1 in ICU, 3:1 Stepdown, 4:1 Tele, 5:1 Med/Surg",27.50 before tax free per diems,12-Hour,Day Shift,,Traveler,"CCRN, ACLS",No,,3/2/17 0:20,3/2/17 0:25
 "San Francisco, CA",Bachelors,Family Community Medicine,Medium,2 months,Minimal,"See 4-8 patients a day, primary care appts ",$36/hr,8-Hour,Day Shift,,Per-Diem,Spanish speaking,Yes,,3/2/17 1:06,3/2/17 1:10
-"Toledo, OH",Bachelors,Stepdown,High,2,4 months (new graduate orientation),3-4:1,26.5,12-Hour,Night Shift,,Full-Time,"PCCNACLS",No,,3/2/17 1:06,3/2/17 1:11
+"Toledo, OH",Bachelors,Stepdown,High,2,4 months (new graduate orientation),3-4:1,26.5,12-Hour,Night Shift,,Full-Time,"PCCN
+ACLS",No,,3/2/17 1:06,3/2/17 1:11
 "Chicago, IL",Bachelors,Surgery,High,4,12 weeks,1:01,28,8-Hour,Day Shift,,Full-Time,"CNOR, ACLS",No,,3/2/17 1:13,3/2/17 1:16
 "Lubbock, TX",Bachelors,Impatient Oncology / Stem Cell ,Medium,2,8 weeks,3-4:1,26,12-Hour,Day Shift,,Full-Time,,Yes,,3/2/17 1:38,3/2/17 1:43
 "Bronx, NY",Bachelors,Telemetry,High,0,6 months,4:01,25,12-Hour,Day Shift,,Full-Time,ACLS ,No,,3/2/17 2:29,3/2/17 2:34
@@ -10,7 +10,8 @@ Sparks Nevada ,Masters,ICU ,Medium,20+,4 weeks,3:01,45,12-Hour,Day Shift,,Full-T
 "Bethlehem, PA",Bachelors,Labor & Delivery,Medium,5,6 months,1:01,28.9,12-Hour,Night Shift,,Part-Time,,Yes,,3/2/17 3:07,3/2/17 3:10
 "Atlanta, GA",Bachelors,Orthopedics/ENT/General Surgery/Urology,Low,2,4 months,5:01,28.5,12-Hour,Night Shift,,Full-Time,Psych nurse experience ,Yes,,3/2/17 3:38,3/2/17 3:42
 "Lisbon, ct",Associates,Nursing,Low,23,Depends on experience and position,"Short term 20 to 1, long term 32 to 1, ridiculous. ...",41.00/hr,8-Hour,Day Shift,,Full-Time,RAC Certified,Yes,,3/2/17 3:40,3/2/17 3:47
-"Canton, MS",Associates,Medication nurse,High,16 years,3 days,30:01:00,$19.00 ,12-Hour,Day Shift,,Per-Diem,"No",No,,3/2/17 3:57,3/2/17 4:03
+"Canton, MS",Associates,Medication nurse,High,16 years,3 days,30:01:00,$19.00 ,12-Hour,Day Shift,,Per-Diem,"No
+",No,,3/2/17 3:57,3/2/17 4:03
 "memphis,tn",Bachelors,skilled and ICF,Medium,53 years,I think it was about 3-4 days,15-20:1,$28/hr,12-Hour,Day Shift,,Part-Time,no,Yes,,3/2/17 4:15,3/2/17 4:24
 "San Jose, CA",Masters,3 Surgical,High,1.5,30ish shifts ,5:1 (4:1 for telemetry patients),55.1,8-Hour,Mid Shift,,Part-Time,,Yes,,3/2/17 4:35,3/2/17 4:41
 "Portland, OR",Bachelors,14K Adult Bone Marrow Transplant and Hematological Malignancies,Low,0.5,8 weeks,3:01,$37.02 ,12-Hour,Day Shift,,Full-Time,Not yet,Yes,,3/2/17 5:34,3/2/17 5:46
@@ -21,7 +22,10 @@ Brooklyn NY,Bachelors,Emergency department,High,2,3 months ,"1:18 on average, no
 "Towson, Md",Associates,Telemetry ,High,8,3 months,5:01,30,12-Hour,Night Shift,,Full-Time,No,No,,3/2/17 8:08,3/2/17 8:12
 "Lakewood, Washington ",Bachelors,Psychology ,Medium,3,10 weeks ,15:01,32,8-Hour,Mid Shift,,Full-Time,Nope,Yes,,3/2/17 8:30,3/2/17 8:37
 "Columbus, GA",Bachelors,Interventional Post Holding,Low,3,2 weeks,1:1 to 1:6 depending on overnight stays,22,12-Hour,Night Shift,,Full-Time,,Yes,,3/2/17 8:59,3/2/17 9:02
-"Asheville, NC",Associates,Neuro,High,10,4 months,4-5:1,30.98,12-Hour,Night Shift,,Full-Time,"Certified in lumbar drain specimen collectionACLS InstructorBLS Instructor",Yes,,3/2/17 9:09,3/2/17 9:15
+"Asheville, NC",Associates,Neuro,High,10,4 months,4-5:1,30.98,12-Hour,Night Shift,,Full-Time,"Certified in lumbar drain specimen collection
+ACLS Instructor
+BLS Instructor
+",Yes,,3/2/17 9:09,3/2/17 9:15
 "Macon, GA",Bachelors,Flex Pool,High,9,3 months,5:01,28,12-Hour,Night Shift,,Full-Time,CCRN,Yes,,3/2/17 10:38,3/2/17 10:42
 "Tampa, FL",Bachelors,Trauma ICU,High,3,13 weeks,3:01,23,12-Hour,Night Shift,,Full-Time,,No,,3/2/17 11:36,3/2/17 11:38
 "Houston, TX",Bachelors,Medical-Surgical,Medium,2,3 months,4-5:1,32,12-Hour,Day Shift,,Full-Time,,Yes,,3/2/17 12:10,3/2/17 12:12
@@ -40,7 +44,7 @@ Coon rapids mn ,Bachelors,Medical surgical ,High,20,8 weeks ,4:01,40,12-Hour,Day
 Raleigh nc,Bachelors,Labor & delivery ,Medium,5,60 days,2:01,26,12-Hour,Night Shift,,Full-Time,N/a,No,,3/2/17 15:56,3/2/17 15:59
 "Chicago, il",Bachelors,Family birth place (ldrp) ,Medium,3 years,10 weeks ,1:1 labor or 1:3-4 couplets,32,12-Hour,Night Shift,,Full-Time,"RNC-OB, charge nurse, cross trained in special care NICU",Yes,,3/2/17 15:54,3/2/17 16:02
 "Asheville, North Carolina ",Associates,Neurosciences,High,10,6 weeks,4:01,$29.49/hr,12-Hour,Night Shift,,Full-Time,No,Yes,,3/2/17 19:02,3/2/17 19:07
-"augusta, wisonsin",Tech,,Medium,30,3 weeks,Nursing Home was 15:1,11,8-Hour,Day Shift,,Full-Time,Farmer,No,,3/2/17 19:29,3/2/17 19:32
+"augusta, wisconsin",Tech,,Medium,30,3 weeks,Nursing Home was 15:1,11,8-Hour,Day Shift,,Full-Time,Farmer,No,,3/2/17 19:29,3/2/17 19:32
 Los Angeles CA,Bachelors,Icu,Low,17,Learned on my own from peers,2:01,76,8-Hour,Day Shift,,Full-Time,Ccrn but let it lapse,Yes,,3/2/17 19:39,3/2/17 19:43
 "Birmingham, AL",Bachelors,6 ortho,Medium,1,8 weeks,7:01,22,12-Hour,Day Shift,,Full-Time,,Yes,,3/2/17 21:15,3/2/17 21:20
 "Coos Bay, Oregon",Associates,Emergency,High,22,7 days - 3 months,4:01,48.9,12-Hour,Night Shift,,Full-Time,CEN,No,,3/2/17 21:30,3/2/17 21:36
@@ -110,7 +114,9 @@ Lancaster California ,Masters,Outpatient ,Low,5,1 month,24,67,8-Hour,Day Shift,,
 "Valencia, CA",Bachelors,Mental health ,Medium,5 months,1 month,6,37.43,12-Hour,Day Shift,,Full-Time,,Yes,I have 3 years RN Experience but I just started in the mental health field ,3/13/17 1:34,3/13/17 1:40
 "Los Angeles, CA",Masters,Perinatal unit,Low,0-1 year,"2 week general orientation, 1 year new grad program",4-5:1,$43.00/hr,12-Hour,Day Shift,,Full-Time,"None, yet.",Yes,,3/13/17 1:42,3/13/17 1:47
 "panorama city,ca",Bachelors,Labor and Delivery,Medium,18,,1:1-1 or 2,62,12-Hour,Night Shift,,Full-Time,RNC,Yes,,3/13/17 6:31,3/13/17 6:36
-"Passdena, Ca",Bachelors,Maternal Child,Low,30,90 days,"1:3, 1:4",$51/hour,12-Hour,Night Shift,,Traveler,"32 years experience in labor & Delivery high risk ob Military nurse 10 yearsPlebotomist 5 years",Yes,,3/13/17 9:31,3/13/17 14:00
+"Passdena, Ca",Bachelors,Maternal Child,Low,30,90 days,"1:3, 1:4",$51/hour,12-Hour,Night Shift,,Traveler,"32 years experience in labor & Delivery high risk ob 
+Military nurse 10 years
+Plebotomist 5 years",Yes,,3/13/17 9:31,3/13/17 14:00
 "Torrance, CA",Bachelors,Labor and Delivery ,Medium,11,6 months,1-4; varies based on if they are antepartum or intrapartum,$52.77/hour,12-Hour,Day Shift,,Full-Time,"RNC MNN, RNC LRN, RNC OB, C EFM, PHN, IBCLC",Yes,,3/13/17 14:08,3/13/17 14:17
 Fort Worth Texas ,Associates,ICU,High,20,4 months,3 to 4,25,12-Hour,Day Shift,,Full-Time,No,No,Hostile environment ,3/13/17 18:15,3/13/17 18:21
 "Los Angeles, CA",Masters,Labor & Delivery,Medium,8,3 months,2:01,50.24/hr (union-determined pay rates based on experience),12-Hour,Day Shift,,Full-Time,Fetal monitoring instructor ,Yes,,3/13/17 18:14,3/13/17 18:29
@@ -135,7 +141,8 @@ Lancaster sc,Associates,Home care,Low,22,2 weeks,8-Jul,23/pt,,Day Shift,,Full-Ti
 "San Jose, Ca",Bachelors,,Medium,1,6 wks,1:6 or 1:8,52,8-Hour,Night Shift,,Part-Time,,Yes,,3/15/17 13:38,3/15/17 13:41
 "San Clemente, CA",Bachelors,L&D,Medium,37,2 wks,"laboring patients, 1:2","49.95 but then time and half after 4 hrs = 74.92, blended rate of $58.27",12-Hour,Day Shift,,Part-Time,Inpt OB and EFM certified,No,,3/15/17 13:50,3/15/17 14:01
 "Tecumseh, michigan",Bachelors,Home care rn,Low,20,"Because I am a contract nurse, usually only a week of less",6-May,$1500.00 per week,8-Hour,Day Shift,,Full-Time,,Yes,I don't fit into the typical nurse box but answere questions as best I could,3/15/17 14:09,3/15/17 14:17
-Concord CA,Bachelors,Triage,Medium,39,1 day,<10. I do phone BD drop in triage,$37 ,8-Hour,Day Shift,,Full-Time,"ACLSBilingual and bicultural Spanish",Yes,,3/15/17 14:15,3/15/17 14:21
+Concord CA,Bachelors,Triage,Medium,39,1 day,<10. I do phone BD drop in triage,$37 ,8-Hour,Day Shift,,Full-Time,"ACLS
+Bilingual and bicultural Spanish",Yes,,3/15/17 14:15,3/15/17 14:21
 "Overland Park,  KS ",Masters,Elementary School Nurse ,Low,3,0,1 to 500,"48,000 per year",8-Hour,Day Shift,,Full-Time,Inpatient Obstetrics certification and CPR instructor certification ,Yes,,3/15/17 18:38,3/15/17 18:42
 "Kansas City, MO",Bachelors,ortho/neuro/trauma,High,almost 3,6 weeks,1:4-5,36/hr,12-Hour,Day Shift,,Per-Diem,ACLS NIHSS,Yes,no,3/15/17 18:48,3/15/17 18:51
 "Kansas City, MO",Associates,Nephrology/Metabolic Unit,Medium,Less than a year - 7 months,6 weeks,1:5 on my unit,$23.04/hr plus $3/hr shift differential for nights and $2/hr differential for weekends,12-Hour,Night Shift,,Full-Time,None,Yes,None,3/15/17 18:46,3/15/17 18:51
@@ -143,11 +150,17 @@ Concord CA,Bachelors,Triage,Medium,39,1 day,<10. I do phone BD drop in triage,$3
 "Kansas City, MO",Associates,Skilled Nursing,High,4,3 days,1:35,23.50/hour,8-Hour,Day Shift,,Full-Time,no,No,No,3/15/17 18:57,3/15/17 19:00
 "Kansas City, Ks",Bachelors,ER,Medium,6,3 months,3:01,$27/hr before diff,12-Hour,Night Shift,,Full-Time,None,Yes,,3/15/17 18:57,3/15/17 19:02
 "Wichita, KS",Bachelors,BirthCare Center,Low,14,10 weeks,Labor 1:1; postpartum 3:1,$26.25 ,12-Hour,Day Shift,,Full-Time,No,Yes,nope,3/15/17 19:00,3/15/17 19:03
-"Olathe, KS",Bachelors,Women's health,Medium,4,9 days,5:01,26/hr,12-Hour,Day Shift,,Full-Time,"NRP STABLEBreastfeeding certified",No,,3/15/17 19:00,3/15/17 19:03
+"Olathe, KS",Bachelors,Women's health,Medium,4,9 days,5:01,26/hr,12-Hour,Day Shift,,Full-Time,"NRP 
+STABLE
+Breastfeeding certified",No,,3/15/17 19:00,3/15/17 19:03
 "Wichita, KS",Associates,ICU,High,2,12 weeks,1:1-1:3,$20.25 ,12-Hour,Day Shift,,Full-Time,,Yes,,3/15/17 19:01,3/15/17 19:04
 "Overland Park, KS",Tech,Nursing ,High,19,,28-Dec,$26 ,,Mid Shift,,Full-Time,,Yes,,3/15/17 19:03,3/15/17 19:07
 "Wichita, KS",Bachelors,LDRP,Low,5.5,12 weeks,1:1 for labor 1:4/1:3 for post partum ,$22.98 ,12-Hour,Day Shift,,Full-Time,On several hospital organizations ,Yes,,3/15/17 19:03,3/15/17 19:08
-"Wichita, KS",Bachelors,Birthing Center,Medium,16,12 weeks,Varies 1-10,$26.10/hr,12-Hour,Day Shift,,Part-Time,"NRP CPRACLSFETAL MONITORING ",Yes,,3/15/17 19:02,3/15/17 19:08
+"Wichita, KS",Bachelors,Birthing Center,Medium,16,12 weeks,Varies 1-10,$26.10/hr,12-Hour,Day Shift,,Part-Time,"NRP 
+CPR
+ACLS
+FETAL MONITORING 
+",Yes,,3/15/17 19:02,3/15/17 19:08
 "Liberty, MO",Bachelors,Emergency Department,Medium,5,6 months,1 to 3 or 4,$30 ,12-Hour,Mid Shift,,Per-Diem,,Yes,,3/15/17 19:05,3/15/17 19:10
 "Kansas City, Kansas",Bachelors,Medical/Surgical,High,7,2 weeks,5,29,12-Hour,Day Shift,,Part-Time,,Yes,No,3/15/17 19:06,3/15/17 19:10
 "Kansas city, Missouri ",Bachelors,ICU ,Medium,1,None,2:01,82000,,Day Shift,,Full-Time,Ccrn,Yes,No,3/15/17 19:07,3/15/17 19:13
@@ -343,6 +356,7 @@ CEBU CITY PHILIPPINES,Bachelors,ADMIN,Medium,7MONTHS,,0.083333333,"13,000/MONTH"
 "Chapel Hill, NC",Bachelors,Radiation Oncology,Low,9,3 months,20,32,,Day Shift,,Full-Time,"CPHON, BSN",Yes,Physician colleague,3/24/17 18:01,3/24/17 18:05
 "San Diego, CA ",Bachelors,Primary Care,Low,6,3 months,0-6,50,8-Hour,Day Shift,,Part-Time,None ,Yes,Friend,3/29/17 2:50,3/29/17 3:02
 "San diego, ca",Bachelors,Labor and delivery,High,18,12 weeks,1:02,49.65,12-Hour,Night Shift,,Full-Time,RNC,Yes,Facebook,3/29/17 5:34,3/29/17 5:43
-"houston, tx",Bachelors,Emergency Center,High,1,6 months,4:01,32,12-Hour,Night Shift,,Full-Time,"TNCC",Yes,MD coworker that works in the EC.,3/29/17 7:32,3/29/17 7:36
+"houston, tx",Bachelors,Emergency Center,High,1,6 months,4:01,32,12-Hour,Night Shift,,Full-Time,"TNCC
+",Yes,MD coworker that works in the EC.,3/29/17 7:32,3/29/17 7:36
 "Wichita, KS",Associates,Hospitalist stroke unit,Medium,3yrs,6wks,7-Jun,1400/biweek,12-Hour,Night Shift,,Full-Time,,Yes,Posting,3/29/17 22:39,3/29/17 22:46
 "San Diego, CA",Bachelors,Surgery,Low,24,7 months,1:01,$59.14 an hour,12-Hour,Mid Shift,,Full-Time,,Yes,A nursing friend.  ,3/31/17 14:57,3/31/17 15:01
