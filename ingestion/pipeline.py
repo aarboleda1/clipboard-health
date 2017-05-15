@@ -22,7 +22,8 @@ Check server/models/Record.js for an example of the schema.
 
 
 def yearlyToHourly(yearlySalary):
-    # derived from https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/computing-hourly-rates-of-pay-using-the-2087-hour-divisor/
+    # derived from
+    # https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/computing-hourly-rates-of-pay-using-the-2087-hour-divisor/
     averageHoursWorkedInOneYear = 2087
     yearlySalary = int(yearlySalary)
     return yearlySalary / 2087
@@ -52,17 +53,18 @@ def weekendToSalary(salary):
 # 1) todos when really long case of a string Varies depending on experience and master grid, 15 yrs experience started me at $63,000
 # 2) when input is not correctly in putted $122,00/year
 # 3)
+
+
 def getLatLng(city):
     try:
         loc = geolocator.geocode(city, exactly_one=True, timeout=5)
         if (loc is None) or (len(loc) == 0):
             return [0, 0]
-        else: 
-						return [loc.latitude, loc.longitude]
+        else:
+            return [loc.latitude, loc.longitude]
     except GeocoderTimedOut as e:
-        print ('Error occured on input %s with message %s' % (city, e.message))
+        print 'Error occured on input %s with message %s' % (city, e.message)
         return
-        pass
 
 
 def standardizeSalary(salary):
@@ -112,7 +114,8 @@ def main():
         patientNurseRatio = row['patientNurseRatio']
         experience = row['experience']
         city = index[0]
-        location = getLatLng(city) # comes in type list. in order to account for mispellings
+        # comes in type list. in order to account for mispellings
+        location = getLatLng(city)
         nurse = {
             'location': {
                 'lat': location[0],
@@ -126,6 +129,8 @@ def main():
             'city': city
         }
         db.records.insert_one(nurse)
+
+
 if __name__ == "__main__":
     main()
 
