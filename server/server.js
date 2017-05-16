@@ -7,7 +7,7 @@ import bodyParser from 'body-parser';
 import compress from 'compression';
 import morgan from 'morgan';
 import cookieParser from 'cookie-parser';
-
+import cors from 'cors';
 import mongoose from 'mongoose';
 
 import session from 'express-session';
@@ -25,6 +25,7 @@ app.use(compress());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(cookieParser());
+app.use(cors());
 
 const MongoDBStore = mongoStore(session);
 
