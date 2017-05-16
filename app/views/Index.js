@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 import Nurses from '../layouts/components/Nurses';
 import NavInstance from '../layouts/components/Nav';
-// import MapComponent from '../layouts/components/MapComponent';
 import ScatterPlot from '../layouts/components/ScatterPlot';
 
 const Index = () => (
@@ -22,3 +21,6 @@ const Index = () => (
 );
 
 export default Index;
+/*
+	Todo: Creat a Nav bar with styling for proper routing
+*/

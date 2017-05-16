@@ -7,10 +7,6 @@ let defaultData = [
     label: 'Years Worked',
     values: [{x: 0, y: 2}, {x: 1.3, y: 5}, {x: 3, y: 6}, {x: 3.5, y: 6.5}, {x: 4, y: 6}, {x: 4.5, y: 6}, {x: 5, y: 7}, {x: 5.5, y: 8}]
     },
-    // {
-    // label: 'Expected Hourly Rate',
-    // values: [{x: 0, y: 0}, {x: 1.3, y: 4}, {x: 3, y: 7}, {x: 3.5, y: 8}, {x: 4, y: 7}, {x: 4.5, y: 7}, {x: 5, y: 7.8}, {x: 5.5, y: 9}]
-    // }
 ];
 class ScatterPlot extends Component {
 	constructor(props) {
@@ -28,7 +24,6 @@ class ScatterPlot extends Component {
 					const salary = salary > 200 ? 30 : record.salary;
 					return { x: experience, y: salary }
 				})
-				console.log(data,' IS DATA')
 				this.setState({
 					nurses: [
 						{
@@ -37,7 +32,6 @@ class ScatterPlot extends Component {
 						}
 					]
 				})
-				// console.log(res.data.records)
 			})		
 	}
 	render() {
@@ -56,3 +50,7 @@ class ScatterPlot extends Component {
 	}
 }
 export default ScatterPlot
+
+/*
+	TODO: fix scatterPlot and normalize data
+*/

@@ -33,5 +33,8 @@ class Nurses extends Component {
 	}
 }
 
-				// <button onClick={browserHistory.goBack}>Back</button>				
 export default Nurses
+
+/*
+TODO: implement browser history to move back
+*/

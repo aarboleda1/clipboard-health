@@ -10,3 +10,6 @@ const Nurse = ({nurse}) => {
 }
 
 export default Nurse;
+/*
+	Todo: Add styling
+*/

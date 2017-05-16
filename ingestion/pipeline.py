@@ -135,3 +135,11 @@ if __name__ == "__main__":
     main()
 
 # "What (City, State) are you located in?",What's your highest level of education?,Department,How's the employee turnover?,How many years of experience do you have?,What is/was your length of orientation/training?,What is the Nurse - Patient Ratio?,What is your hourly rate ($/hr)?,What's Your Shift Length?,Which Shift?,Other,Full-Time/Part-Time?,"Do you have any special skills that set you apart from other nurses? (examples: CCRN, CNOR, Special Procedures, etc.)",Would you recommend your department to another nurse?,How did you hear about Project Nurse?,Start Date (UTC),Submit Date (UTC)
+# 
+# 
+# 
+# 
+# todo: Data analysis below
+# * What’s the average per hour salary
+# * What are the top 10 nursing departments?
+# * What percentage of nurses have bachelor’s v. associate’s?

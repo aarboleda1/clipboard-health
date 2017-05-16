@@ -55,3 +55,7 @@ class MapComponent extends Component {
 	}
 }
 export default MapComponent;
+
+/*
+	TODO: Add markers for each nurse
+*/
