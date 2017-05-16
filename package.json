@@ -49,6 +49,7 @@
     "raw-loader": "^0.5.1",
     "react": "^15.5.4",
     "react-bootstrap": "^0.31.0",
+    "react-d3-components": "^0.6.6",
     "react-d3-map": "^0.8.3",
     "react-dom": "^15.5.4",
     "react-easy-chart": "^0.1.13",
